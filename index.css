@@ -1,0 +1,85 @@
+h5 {
+  text-align: center;
+  margin-top: 50px;
+}
+.mission {
+  margin-right: 600px;
+}
+.arrow {
+  width: 300px;
+  height: 250px;
+}
+.miss {
+  margin-right: 90px;
+  justify-content: space-between;
+}
+.eye {
+  font-size: 300px;
+}
+.combined {
+  width: 1695px;
+  height: 500px;
+}
+.secondheader {
+  margin-right: 500px;
+  margin-top: 65px;
+  font-size: 27px;
+  color: black;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.tagged {
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.but {
+  color: white;
+  border-radius: 5px;
+  background-color: #40A5E9;
+  font-size: 20px;
+  border: none;
+  width: 380px;
+  height: 60px;
+  margin-top: 40px;
+}
+.bank {
+  font-size: small;
+  font-family: sans-serif;
+  margin-left: 40px;
+}
+.trans {
+  margin-left: 40px;
+}
+.cards {
+  margin-left: 40px;
+  margin-top: 150px;
+  margin-bottom: 25px;
+}
+.formseh {
+  margin-left: 40px;
+}
+
+.vol-head {
+  text-align: center;
+  font-size: large;
+  margin-top: 50px;
+}
+.identity {
+  border-radius: 5px;
+  border: 4px solid gray;
+  height: 150px;
+  width: 180px;
+  margin-left: 30px;
+  border-radius: 3px;
+  
+}
+.eye {
+  font-size: 250px;
+  margin-top: 0px;
+}
+.thumbs {
+  font-size: 250px;
+  margin-top: 0px;
+}
+.miss {
+  margin-left: 150px;
+}
