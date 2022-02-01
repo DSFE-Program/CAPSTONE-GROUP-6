@@ -1,0 +1,199 @@
+.navbar{
+  background: #FFF ;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+  font-family: Merriweather ;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+margin: 0px;
+}
+
+.navd{
+  border: 3px solid #40A5E9;
+box-sizing: border-box;
+border-radius: 8px;
+width: 112px;
+height: 44px;
+border-radius: 8px;
+text-align: center;
+margin: 20px;
+color: #40A5E9 !important;
+}
+
+.navd2{
+ color: #FFFFFF !important;
+box-sizing: border-box;
+border-radius: 8px;
+width:  112px;
+height: 44px;
+text-align: center;
+background-color: #40A5E9;
+margin: 20px;
+
+}
+
+.navbox{
+ 
+  width: 300px;
+ margin-left: 220px;
+ 
+}
+
+.navbar3{
+  background-color: #40A5E9;
+  margin:0px;
+}
+
+.help{
+  color: #FFFFFF;
+ align-content: center;
+}
+
+.alertb{
+  background: #EC032D;
+border-radius: 8px;
+}
+
+.homep{
+  background-image:url(./Images/sliding1.png);
+  max-width: 100%;
+  height:691px ;
+  margin: 0px;
+padding: 0px;
+background-repeat: no-repeat;
+}
+
+.geth{
+  background: #EC032D;
+border-radius: 20px !important;
+width: 200px;
+height: 74px;
+font-family: Merriweather !important;
+font-weight: bold !important;
+margin-right: 30px;
+
+font-size: 20px;
+padding:20px !important;
+font-style: normal;
+font-size: 15px !important; 
+text-align: center !important; 
+}
+
+.homet{
+  font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 58px;
+letter-spacing: -0.022em;
+color: #FFFFFF;
+left: 125px;
+top: 462px;
+margin-top:  281px;
+
+}
+
+.homet2{
+  font-family: Merriweather;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 58px;
+letter-spacing: -0.022em;
+color: #FFFFFF;
+margin-top:  281px;
+
+}
+
+.homed{
+  width: 1000px;
+ 
+  height:691px ;
+  text-align: center;
+  left:0px ;
+  padding: 2%;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.55) 34.38%, rgba(255, 255, 255, 0) 100%);
+  
+}
+
+.aboutp{
+  font-family: Merriweather;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+}
+
+.about{
+  max-width: 100%;
+  height:691px ;
+  margin: 0px;
+padding: 0px;
+text-align: center;
+align-items: center;
+padding: 200px 50px;
+}
+
+.read{
+  color: blue;
+}
+
+.nil{
+  background-color:#40A5E9 ;
+}
+
+
+  
+.nav2:hover{
+color: #40A5E9 !important;
+}
+
+.lpix{
+  background-image: url(./Images/Rectangle.png);
+  max-width: 100%;
+  height:691px ;
+  margin: 0px;
+padding: 0px;
+}
+
+.rectp {
+  max-width: 100%;
+  height: 262px;
+ 
+  
+}
+
+.turn{
+  width: 672px !important;
+  height: 80px !important;
+  color: #40A5E9 !important;
+  border-radius: 8px;
+  text-align: center !important;
+  font-family: Merriweather;
+font-style: normal !important;
+font-weight: bold !important;
+font-size: 25px !important;
+line-height: 31px !important;
+margin-top: 20px ;
+
+  
+}
+
+.btn{
+  background-color: #40A5E9 !important;
+}
+
+.sea{
+  width: 672px !important;
+ 
+}
+.rounded{
+ 
+  height: 80px !important;
+}
+
+.us{
+  
+}
+
+
+
